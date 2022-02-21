@@ -1,5 +1,5 @@
 ### Kernel Projected Wasserstein Distance
-Codes for "Two-sample Test with Kernel Projected Wasserstein Distance"
+Codes for [Two-sample Test with Kernel Projected Wasserstein Distance](https://arxiv.org/abs/2102.06449)
 
 
 ### Demo
